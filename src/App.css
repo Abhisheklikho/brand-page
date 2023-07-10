@@ -76,9 +76,10 @@ max-height: calc(100vh-0px);
     gap: 40px;
 
 }
-.shop-btn button{
-    all: unset;
+.shop-btn a{
+   
  padding: 6px 16px;
+ text-decoration: none;
 }
 .shop-btn .shop-now{
     background-color: #D01C28;

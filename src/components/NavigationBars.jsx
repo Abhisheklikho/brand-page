@@ -9,10 +9,10 @@ const Navigation = ()=>{
                 <img src="./images/brand_logo.png" alt="logo"></img>
             </div>
             <div className="nav-btn">
-                <a href="www.google.com">MENU</a>
-                <a href="www.google.com">LOCATION</a>
-                <a href="www.google.com">ABOUT</a>
-                <a href="www.google.com">CONTACT</a>
+               <a href="https://www.nike.com/in/w/mens-shoes-nik1zy7ok">MENU</a>
+                <a href="https://www.nike.com/in/w/mens-shoes-nik1zy7ok">LOCATION</a>
+                <a href="https://www.nike.com/in/w/mens-shoes-nik1zy7ok">ABOUT</a>
+                <a href="https://www.nike.com/in/w/mens-shoes-nik1zy7ok">CONTACT</a>
             </div>
             <div className="login-btn">
                 <button>Login</button>

@@ -14,8 +14,8 @@ return(
 <p>YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.</p>
 </div>
 <div className="shop-btn">
-    <button className="shop-now">Shop Now</button>
-    <button className="category">Category</button>
+    <a href="https://www.nike.com/in/w/mens-shoes-nik1zy7ok" className="shop-now">Shop Now</a>
+    <a href="https://www.nike.com/in/w/mens-shoes-nik1zy7ok" className="category">Category</a>
 </div>
 <div className="Also-Available-On">
 <p>Also Available On</p>
